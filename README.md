@@ -6,6 +6,23 @@ A modern and responsive HTML template designed for tourism agencies, travel comp
 Built with clean code, fast performance, and mobile-first design principles, this template helps businesses showcase destinations, travel packages, tours, accommodations, and customer experiences in a professional way.
 
 ---
+## 🌐 Live Preview
+
+Explore the live version of the project:
+
+🔗 https://samanbalahang.github.io/kadous
+
+The demo includes:
+- Home Page
+- Destination Listings
+- Tour Packages
+- About Us Page
+- Contact Page
+- Responsive Mobile Design
+
+Feel free to explore the template and use it as a starting point for your own tourism or travel business website.
+
+---
 
 ## 🌍 Features
 
@@ -268,6 +285,16 @@ Special thanks to:
 - Tourism and Travel Industry Professionals
 
 Thank you for using this Tourism Travel HTML Template!
+
+### 🌐 مشاهده قالب
+
+Explore the live version of the project:
+
+🔗 https://samanbalahang.github.io/kadous
+
+------------
+
+
 # قالب HTML گردشگری و آژانس مسافرتی
 
 یک قالب HTML مدرن و واکنش‌گرا که برای آژانس‌های مسافرتی، شرکت‌های گردشگری، برگزارکنندگان تور و وب‌سایت‌های معرفی مقاصد گردشگری طراحی شده است.
