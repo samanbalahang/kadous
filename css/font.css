@@ -1,0 +1,19 @@
+@font-face {
+    font-family: "rokh";
+    src: url('font/RokhFaNum-Medium.woff2') format('woff2'), 
+    url('font/RokhFaNum-Medium.woff') format('woff');
+    font-display: swap;
+}
+@font-face {
+    font-family: "rokh";
+    src: url('font/RokhFaNum-Bold.woff2') format('woff2'), 
+    url('font/RokhFaNum-Bold.woff') format('woff');
+    font-weight: bold;
+    font-display: swap;
+}
+@font-face {
+    font-family: "bala";
+    src: url('font/bala.woff2') format('woff2'), 
+    url('font/bala.woff') format('woff');
+    font-display: swap;
+}
