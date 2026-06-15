@@ -10,7 +10,7 @@ Built with clean code, fast performance, and mobile-first design principles, thi
 
 Explore the live version of the project:
 
-🔗 https://samanbalahang.github.io/kadous
+🔗 https://samanbalahang.github.io/kadous/index.html
 
 The demo includes:
 - Home Page
@@ -290,7 +290,7 @@ Thank you for using this Tourism Travel HTML Template!
 
 Explore the live version of the project:
 
-🔗 https://samanbalahang.github.io/kadous
+🔗 https://samanbalahang.github.io/kadous/index.html
 
 ------------
 
